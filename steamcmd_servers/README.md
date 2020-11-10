@@ -1,4 +1,4 @@
-# steamcmd servers
+﻿# steamcmd servers
 
 This is a collection of servers that use steamcmd to install.
 
@@ -13,6 +13,12 @@ This is a collection of servers that use steamcmd to install.
 * [arma 3](arma/arma3/)
 * [arma 3 headless](arma/arma3_headless_client/)
 
+## Avorion
+[avorion](avorion/)
+
+## Citadel: Forged with Fire
+[citadel](citadel/)
+
 ## Conan Exiles
 [conan_exiles](conan_exiles/)
 
@@ -25,11 +31,23 @@ This is a collection of servers that use steamcmd to install.
 ## HLDS Server
 [hlds](hlds_server/)
 
+## Hurtworld
+[hurtworld](hurtworld/)
+
+## Insurgency: Sandstorm
+[Insurgency: Sandstorm](insurgency_sandstorm/)
+
 ## Mordhau
 [mordhau](mordhau/)
 
 ## Onset
 [onset](onset/)
+
+## Project Zomboid
+[project_zomboid](project_zomboid/)
+
+## Rising World
+[rising_world](rising_world/)
 
 ## Rust Staging
 [rust staging](rust_staging/)
@@ -37,11 +55,20 @@ This is a collection of servers that use steamcmd to install.
 ## SCP: Secret Laboratory
 [SCP: Secret Laboratory](/scpsl/)
 
+## Soldat
+[soldat](soldat/)
+
 ## Squad
 [squad](squad/)
 
 ## Starbound
 [starbound](starbound/)
+
+## Stationeers
+[Stationeers](/steamcmd_servers/stationeers/)
+
+## Stormworks: Build and Rescue
+[Stormworks](/steamcmd_servers/stormworks/)
 
 ## Sven coop
 [svencoop](svencoop)
@@ -50,5 +77,4 @@ This is a collection of servers that use steamcmd to install.
 [Tower Unite](tower_unite)
 
 ## Unturned
-  * [RocketMod](rocketmod)
   * [Unturned](unturned)
